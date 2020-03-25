@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina Radio</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Abel" rel="stylesheet">
+  </head>
+  <body>
+    <div class="page-container">
+      <img class="back-image" src="images/fondo.png" alt="fondo chica audifono"/>
+      <div class="chat-container">
+        <iframe src="https://radchat.techinradio.com/channel/narnadradio?layout=embedded"></iframe>
+      </div>
+      <div class="player-container">
+        <div id="sound-bar" class="image-container">
+          <canvas id="visualization" width="320" height="250">
+            <img id="background-image" src="images/star.jpg" alt="stars" width="320" height="250">
+          </canvas>
+        </div>
+        <div class="radio-info">
+          <h2>RADIO ONLINE</h2>
+          <p>NarNadradio</p>
+          <audio id="audio-transmission" crossorigin="anonymous" src="https://radstream.techinradio.com:8000/stream"></audio>
+        </div>
+        <div class="controls">
+          <button type="button" class="control-btn" id="play-btn">
+            <img src="images/btn Play.svg" />
+          </button>
+          <span id="current-time"> 00:00 </span>
+          <div class="volume-container">
+            <button type="button" class="control-btn" id="volume-btn">
+              <img src="images/btn Volumen.svg" />
+            </button>
+            <input type="range" min="0.0" max="1.0" value="0.5" step="0.1" class="slider" id="volume-slider">
+          </div>
+        </div>
+      </div>
+      <div class="redes-sociales">
+        <p>SIGUENOS EN NUESTRAS REDES SOCIALES</p>
+        <div class="social-icons">
+          <a href="https://www.facebook.com/narnad/" class="social-link facebook"></a>
+          <a href="https://www.instagram.com/narnadradio/" class="social-link instagram"></a>
+          <a href="https://twitter.com/narnadradio" class="social-link twitter"></a>
+          <a href="https://www.youtube.com/c/NarNadradio?sub_confirmation=1" class="social-link youtube"></a>
+        </div>
+      </div>
+      <div class="adds">
+        <a href="#">
+          <img src="images/anuncio1.png" alt="">
+        </a>
+        <a href="#">
+          <img src="images/anuncio2.png" alt="">
+        </a>
+        <a href="#">
+          <img src="images/anuncio3.png" alt="">
+        </a>
+        <a href="#">
+          <img src="images/anuncio4.png" alt="">
+        </a>
+      </div>
+      <footer class="footer">
+        <div>
+          <p>©Todos los derechos resevados. </p>
+        </div>
+        <div>
+          <p> Deseñado por <a href="https://techinradio.com"> TechInRadio</a> </p>
+        </div>
+      </footer>
+    </div>
+    <script src="js/player_script.js"></script>
+  </body>
+</html>

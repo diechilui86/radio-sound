@@ -1,0 +1,4 @@
+<svg id="btn_Play" data-name="btn Play" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <circle id="Fondo_Circular_G" data-name="Fondo Circular G" cx="24" cy="24" r="24" transform="translate(0 0)" opacity="0.3"/>
+  <path id="icono_play" data-name="icono play" d="M313.141,243.485a1.824,1.824,0,0,0-1.778,1.743l-.2,18.126a1.742,1.742,0,0,0,.931,1.54,2.014,2.014,0,0,0,1.9.008L330.751,256a1.705,1.705,0,0,0,.031-3.048l-16.548-9.221a2,2,0,0,0-1.087-.245Z" transform="translate(-295.471 -230.31)" fill="#A9CF2C"/>
+</svg>

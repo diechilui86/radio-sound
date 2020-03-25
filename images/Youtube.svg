@@ -1,0 +1,5 @@
+<svg id="Youtube" xmlns="http://www.w3.org/2000/svg" width="45.592" height="45.592" viewBox="0 0 45.592 45.592">
+  <rect id="Fondo_Rectangular" data-name="Fondo Rectangular" width="45.592" height="45.592" rx="8.101" fill="red"/>
+  <path id="Youtube_rectangulo" data-name="Youtube rectangulo" d="M180.12,103.628a3.658,3.658,0,0,0-2.568-2.578c-2.28-.626-11.4-.626-11.4-.626s-9.122,0-11.4.6a3.733,3.733,0,0,0-2.568,2.6,41.539,41.539,0,0,0,0,14.071,3.658,3.658,0,0,0,2.568,2.578c2.3.626,11.4.626,11.4.626s9.122,0,11.4-.6a3.658,3.658,0,0,0,2.568-2.578,38.757,38.757,0,0,0,.6-7.035A36.805,36.805,0,0,0,180.12,103.628Z" transform="translate(-143.486 -87.867)" fill="#fff"/>
+  <path id="Youtube_play" data-name="Youtube play" d="M18.981,10.1,11.4,5.719v8.77Z" transform="translate(8.364 12.692)" fill="red"/>
+</svg>

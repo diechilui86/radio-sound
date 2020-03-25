@@ -1,0 +1,7 @@
+<svg id="btn_Pause" data-name="btn Pause" xmlns="http://www.w3.org/2000/svg" width="47.636" height="47.636" viewBox="0 0 47.636 47.636">
+  <circle id="Fondo_Circular_G" data-name="Fondo Circular G" cx="23.818" cy="23.818" r="23.818" transform="translate(0 0)" opacity="0.3"/>
+  <g id="icono_pause" data-name="icono pause" transform="translate(15.425 12.791)">
+    <rect id="rect883-7" width="7.091" height="22.053" rx="0.99" fill="#fff"/>
+    <rect id="rect885-2" width="7.091" height="22.053" rx="0.99" transform="translate(9.693)" fill="#fff"/>
+  </g>
+</svg>

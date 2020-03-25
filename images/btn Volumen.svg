@@ -1,0 +1,10 @@
+<svg id="btn_Volumen" data-name="btn Volumen" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <circle id="Fondo_Circular_P" data-name="Fondo Circular P" cx="16" cy="16" r="16" fill="rgba(64,231,228,0)"/>
+  <g id="Icono_Volumen" data-name="Icono Volumen" transform="translate(4.939 8.093)">
+    <path id="path2478" d="M89.636,407.213h0a1.355,1.355,0,0,0-.609.168l-5.888,3.281h-2.3A1.531,1.531,0,0,0,79.3,412.2v4.957a1.531,1.531,0,0,0,1.534,1.534h2.577l5.773,3.069a1.368,1.368,0,0,0,1.289-.006,1.183,1.183,0,0,0,.635-1.045l-.142-12.3a1.238,1.238,0,0,0-1.207-1.184h-.129Z" transform="translate(-79.301 -406.661)" fill="#fff"/>
+    <g id="g2463" transform="translate(17.671) rotate(43.623)">
+      <path id="circle63-3-5-0-9" d="M0,0V2.294a8.883,8.883,0,0,1,8.883,8.883h2.294A11.178,11.178,0,0,0,0,0Z" fill="#fff"/>
+      <path id="path1922-0" d="M0,0V2.293a4.3,4.3,0,0,1,4.3,4.3H6.592A6.592,6.592,0,0,0,0,0Z" transform="translate(0 4.586)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
