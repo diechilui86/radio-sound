@@ -237,4 +237,5 @@ iframe {
 
   .footer {
     grid-template: 1fr 1fr / 1fr;
+  }
 }
