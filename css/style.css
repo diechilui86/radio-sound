@@ -21,7 +21,7 @@ p {
   grid-template-columns: repeat(8, 1fr);
   grid-template-rows: 50px 450px 150px 180px 50px;
   grid-template-areas:  "header header header header header header header header"
-                        ". chat chat . . reproductor reproductor ."
+                        ". chat chat chat . reproductor reproductor ."
                         ". . . . . social social ."
                         ". publicidad publicidad publicidad publicidad publicidad publicidad ."
                         ". . footer footer footer footer . .";
@@ -35,10 +35,13 @@ p {
 
 .chat-container {
   grid-area: chat;
+  
   width: 100%;
   height: 100%;
 }
 iframe {
+  border: 2px solid #777381;
+  border-radius: 15px;
   width: 100%;
   height: 100%;
 }
