@@ -40,10 +40,10 @@ p {
   height: 100%;
 }
 iframe {
-  border: 2px solid #777381;
+  border: 3px solid #777381;
   border-radius: 15px;
   width: 100%;
-  height: 100%;
+  height: 460px;
 }
 .player-container {
   grid-area: reproductor;
